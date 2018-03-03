@@ -1,14 +1,6 @@
 {
     "title": "crypto",
     "name": "crypto",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
     "license": "MIT",
     "dependencies": {
         "bootstrap": "4.0.0",
@@ -24,9 +16,5 @@
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
         "gulp-uglify": "3.0.0"
-    },
-    "scripts": {
-      "start": "node index.html"
     }
-
 }
